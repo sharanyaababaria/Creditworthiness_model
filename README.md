@@ -1,6 +1,6 @@
 # Creditworthiness_model
 ## Data Cleaning and Preparation:
-### Processed the dataset by identifying and handling missing values.T
+### Processed the dataset by identifying and handling missing values.
 ### Treated outliers to enhance model performance, assessing the impact of these treatments on accuracy and recall.
 ## Exploratory Data Analysis (EDA):
 ### Conducted data visualization and correlation analysis to understand feature interactions.
